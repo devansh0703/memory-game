@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+}
+
